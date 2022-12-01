@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" version="15.0">
+	<children>
+		<folder name="Components" />
+		<folder name="Pages">
+			<folder name="PageLogin">
+				<child name="PageLogin_Login" key="{CFEF6144-4EE5-4C4C-BB2A-C37054537F3B}" path="PageLogin_Login.tcKDTest" />
+			</folder>
+			<folder name="PageViewAllOrders">
+				<child name="PageViewAllOrders_CheckAll" key="{F5358706-2D05-437E-A0B5-38716123A11B}" path="PageViewAllOrders_CheckAll.tcKDTest" />
+				<child name="PageViewAllOrders_UncheckAll" key="{11F1BE40-98CE-4538-A936-7F5D7880767C}" path="PageViewAllOrders_UncheckAll.tcKDTest" />
+				<child name="PageViewAllOrders_SelectOrder" key="{E5A7C8B0-A5A2-4025-9FF6-E85260F1870F}" path="PageViewAllOrders_SelectOrder.tcKDTest" />
+				<child name="PageViewAllOrders_DeleteSelected" key="{D252C39C-2992-4137-9FE1-CC8259A6E4C2}" path="PageViewAllOrders_DeleteSelected.tcKDTest" />
+				<child name="PageViewAllOrders_NavTo" key="{319794D9-77BC-477E-B1B7-666E876DF1E8}" path="PageViewAllOrders_NavTo.tcKDTest" />
+			</folder>
+			<folder name="BasePage">
+				<child name="BasePageLogout" key="{D7840EA3-C71E-4A63-9F74-DCAF3FAB2F61}" path="BasePageLogout.tcKDTest" />
+			</folder>
+			<folder name="PageViewAllProducts">
+				<child name="PageViewAllProducts_NavTo" key="{7B454D40-543B-44CE-AE01-426352CE1142}" path="PageViewAllProducts_NavTo.tcKDTest" />
+			</folder>
+			<child name="PageOrder" key="{8B8478BE-8B1E-47A7-B305-44221852BAD4}" path="PageOrder.tcKDTest" />
+		</folder>
+		<folder name="Tests" />
+		<folder name="UtilBrowser">
+			<child name="StartBrowser" key="{5F9C8DC2-7882-4D41-8C8A-FD9DF88FC60B}" path="StartBrowser.tcKDTest" />
+			<child name="CloseBrowser" key="{350CDD57-78A8-427E-BE31-31B41B775BDC}" path="CloseBrowser.tcKDTest" />
+		</folder>
+	</children>
+</Root>

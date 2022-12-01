@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{CFEF6144-4EE5-4C4C-BB2A-C37054537F3B}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="2" kind="0" dateTime="44889.7555902778" objectName="Aliases.browser.pageWebOrdersLogin.textboxUsername" objectLeft="557" objectTop="387" objectRight="705" objectBottom="408" clickPointX="599" clickPointY="393" imageFileName="tcvi369242140478840.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="3" kind="0" dateTime="44889.755625" objectName="Aliases.browser.pageWebOrdersLogin.textboxUsername" objectLeft="557" objectTop="387" objectRight="705" objectBottom="408" clickPointX="-1" clickPointY="-1" imageFileName="tcvi369243718478841.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="4" kind="0" dateTime="44889.7556597222" objectName="Aliases.browser.pageWebOrdersLogin.passwordboxPassword" objectLeft="557" objectTop="412" objectRight="705" objectBottom="433" clickPointX="585" clickPointY="419" imageFileName="tcvi369248546478843.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="5" kind="0" dateTime="44889.7556944444" objectName="Aliases.browser.pageWebOrdersLogin.passwordboxPassword" objectLeft="557" objectTop="412" objectRight="705" objectBottom="433" clickPointX="-1" clickPointY="-1" imageFileName="tcvi369249703478844.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="7" kind="0" dateTime="44889.755775463" objectName="Aliases.browser.pageWebOrdersLogin.submitbuttonLogin" objectLeft="557" objectTop="443" objectRight="640" objectBottom="470" clickPointX="612" clickPointY="456" imageFileName="tcvi369258171392086.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>

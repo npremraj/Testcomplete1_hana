@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{E5A7C8B0-A5A2-4025-9FF6-E85260F1870F}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="2" kind="0" dateTime="44890.3120833333" objectName="Aliases.browser.pageDefault.formAspnetform.checkboxCtl00MaincontentOrdergri2" objectLeft="308" objectTop="389" objectRight="321" objectBottom="402" clickPointX="317" clickPointY="397" imageFileName="tcvi417322750480401.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="3" kind="0" dateTime="44890.3121064815" objectName="Aliases.browser.pageDefault.formAspnetform.checkboxCtl00MaincontentOrdergri3" objectLeft="308" objectTop="436" objectRight="321" objectBottom="449" clickPointX="313" clickPointY="445" imageFileName="tcvi417324937470563.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>
